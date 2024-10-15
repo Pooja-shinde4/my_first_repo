@@ -3,6 +3,7 @@ import star from './star.jpg'
 import student from './students.jpg'
 import ExploreBtn from '../Components/ExploreBtn'
 
+
 const Hero = () => {
     const imgs={
         height:100,
